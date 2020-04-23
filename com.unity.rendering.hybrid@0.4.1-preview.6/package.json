@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.rendering.hybrid",
+  "displayName": "Hybrid Renderer",
+  "version": "0.4.1-preview.6",
+  "unity": "2019.3",
+  "unityRelease": "0f1",
+  "description": "The Hybrid Rendering package provides systems and components for drawing meshes using DOTS, including support for instanced mesh rendering and LOD.",
+  "dependencies": {
+    "com.unity.entities": "0.9.0-preview.6"
+  },
+  "keywords": [
+    "dots",
+    "hybrid",
+    "rendering",
+    "unity"
+  ],
+  "repository": {
+    "footprint": "9e011c94c9bb010aa8d711cc91cfbcc3f4ce0b40",
+    "type": "git",
+    "url": "https://github.com/Unity-Technologies/dots.git",
+    "revision": "238434967773104ec03f53058b653695f1d9aeec"
+  }
+}
